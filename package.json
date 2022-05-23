@@ -1,0 +1,22 @@
+{
+  "name": "mint-smm",
+  "version": "1.0.0",
+  "description": "landing-mint",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oldstud/mint-smm.git"
+  },
+  "keywords": [
+    "smm"
+  ],
+  "author": "Pushkin Dmytro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oldstud/mint-smm/issues"
+  },
+  "homepage": "https://github.com/oldstud/mint-smm#readme"
+}
