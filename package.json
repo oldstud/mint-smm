@@ -4,7 +4,7 @@
   "description": "landing-mint",
   "main": "public/index.html",
   "scripts": {
-    "test": "test"
+  
   },
   "repository": {
     "type": "git",
