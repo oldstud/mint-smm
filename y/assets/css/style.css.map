@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../../../scss/style.scss"
+	],
+	"sourcesContent": [
+		"html {\r\n    body{\r\n        color: black;\r\n        h1{\r\n            color: green!important;\r\n        }\r\n    }\r\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AACI,IADA,CACA,IAAI,AAAA,CACA,KAAK,CAAE,KAAK,CAIf,AANL,AAGQ,IAHJ,CACA,IAAI,CAEA,EAAE,AAAA,CACE,KAAK,CAAE,KAAK,CAAA,UAAU,CACzB"
+}
