@@ -112,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
   
 }
 #header .logo::after {
-  content: url('/y/assets/img/favicon.png');
+  content: url('/assets/img/favicon.png');
   position: absolute;
   transform: rotate(69deg) scale(0.5);
   top: -28px;
