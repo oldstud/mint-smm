@@ -62,6 +62,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #444444;
   transition: 0.3s;
 }
+@media screen and (max-width:374px) {
+  #topbar .contact-info a {
+    font-size: 2.5vw;
+  }
+}
 #topbar .contact-info a:hover {
   color: #5cb874;
 }
@@ -103,6 +108,15 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-weight: 700;
   letter-spacing: 1px;
+  position: relative;
+  
+}
+#header .logo::after {
+  content: url('/y/assets/img/favicon.png');
+  position: absolute;
+  transform: rotate(69deg) scale(0.5);
+  top: -28px;
+  right: -44px;
   
 }
 #header .logo a {
