@@ -62,9 +62,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #444444;
   transition: 0.3s;
 }
-@media screen and (max-width:374px) {
-  #topbar .contact-info a {
-    font-size: 2.5vw;
+@media screen and (max-width:440px) {
+  #topbar .contact-info  {
+    font-size: 11px;
   }
 }
 #topbar .contact-info a:hover {
