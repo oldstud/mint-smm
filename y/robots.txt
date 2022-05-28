@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mint-smm.web.app/sitemap.xml
